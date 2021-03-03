@@ -11,4 +11,4 @@
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/p-rinc-e/Elizabeth/graphs/commit-activity)
-[![deploy](https://heroku.com/deploy?template=https://github.com/Apollothewolf/ELIZABETH)]
+https://heroku.com/deploy?template=https://github.com/Apollothewolf/ELIZABETH
