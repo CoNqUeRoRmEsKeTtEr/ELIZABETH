@@ -38,7 +38,7 @@ youtube-dl
 wikipedia
 spamwatch
 bleach
-git+https://github.com/Apollothewolf/python-markdown2.git
+git+https://github.com/Apollothewolf/ELIZABETH.git
 alphabet_detector
 tswift
 covid
